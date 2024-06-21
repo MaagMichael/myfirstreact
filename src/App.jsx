@@ -21,6 +21,7 @@ const App = () => {
       <Greeting name="Michael" city="München" />
       <Greeting name="Joe" city="London" />
       <Greeting name="Peter" city="Paris" />
+      <Greeting name="Paul" city="Hamburg" />
       <button onClick={changecounter}>click me</button>
       <p>Counter {counter}</p>
 
